@@ -1,0 +1,61 @@
+* {
+    margin: 1px;
+    padding: 5px;
+}
+
+body {
+    width: 100%;
+    height:100%;
+}
+
+nav {
+    background-color: #00334D;
+}
+
+.background__hf {
+    background-color: rgb(245, 222, 179, 0.27);
+}
+
+header {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-transform: uppercase;
+    color: #00334D;
+}
+
+main {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #00334D;
+    padding: 0;
+}
+
+.article__border {
+    border:solid #00334D 0.2em
+}
+
+.align-center {
+    text-align: center;
+    color: #00334D;
+}
+
+.list__navegation {
+    list-style: none;
+}
+
+.a__navigation {
+    text-decoration: none;
+    font-size: 1.5em;
+    color: rgb(245, 222, 179);
+}
+
+/* Google Fonts - Cossette*/
+.cossette-titre-regular {
+  font-family: "Cossette Titre", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.cossette-titre-bold {
+  font-family: "Cossette Titre", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
