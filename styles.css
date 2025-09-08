@@ -59,3 +59,15 @@ main {
   font-weight: 700;
   font-style: normal;
 }
+
+/* Flex box */
+.productos {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1px;
+}
+
+.flex__nav {
+    display: flex;
+    flex-wrap: wrap;
+}
