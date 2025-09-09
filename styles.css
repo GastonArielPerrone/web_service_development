@@ -57,6 +57,10 @@ main {
     padding: 0;
 }
 
+form {
+    margin: 20px;
+}
+
 label {
     font-size: 1.8rem;
 }
