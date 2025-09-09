@@ -154,3 +154,8 @@ td {
         grid-template-columns: auto;
     }
 }
+
+/* focus */
+input:focus, textarea:focus {
+    border: 3px solid ;
+}
