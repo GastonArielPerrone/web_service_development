@@ -119,3 +119,11 @@ main {
     transform: translateY(-20px);
     transition: transform 0.3s ease-in-out;
 }
+
+/* Media Query*/
+
+@media (max-width: 768px) {
+    .reseñas {
+        grid-template-columns: auto;
+    }
+}
