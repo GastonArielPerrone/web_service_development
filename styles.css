@@ -157,5 +157,6 @@ td {
 
 /* focus */
 input:focus, textarea:focus {
-    border: 3px solid ;
+    border: 3px solid blue;
+    transition: 1s;
 }
